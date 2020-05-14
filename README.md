@@ -7,7 +7,7 @@ Aqui você encontra os meus projetos na area de Data Science e Machine Learning.
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Determinando a qualidade do vinho através de Machine Learning:** https://bit.ly/2Qr7Nai
+* **Determinando a qualidade do vinho através de Machine Learning:** https://bit.ly/3byds6Q
 
 ---
 
