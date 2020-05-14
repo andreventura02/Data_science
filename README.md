@@ -2,7 +2,7 @@
   <img src ="https://fontmeme.com/permalink/200514/1aeec56fe0984855673e3428f6009ddd.png" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+Aqui você encontra os meus projetos na area de Data Science e Machine Learning.
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
@@ -18,9 +18,5 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
-
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+Eu me chamo André Ventura, curso Tecnologia em Banco de Dados na Universidade Nove de Julho, na esperança de mudar o mundo com os dados. Hoje minha rotina se baseia totalmente no estudo de Data Science, pois é algo que me alegra.
+Em meu tempo livre costumo jogar, dormir e assistir séries e filmes, em breve irei publicar artigos e projetos para ajudar aqueles que assim como eu tambem se apaixonaram por Data Science e querem se aprofundar mais.
