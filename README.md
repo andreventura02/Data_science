@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fontmeme.com/permalink/200514/a98d8e11232faa2c9ccbe86b2f431cb6.png" >
+  <img src ="https://fontmeme.com/permalink/200514/1aeec56fe0984855673e3428f6009ddd.png" >
 </p>
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
