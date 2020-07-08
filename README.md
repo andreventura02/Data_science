@@ -5,7 +5,8 @@
 Aqui você encontra os meus projetos na area de Data Science e Machine Learning.
 
 ## Projetos:
-Lista de projetos em Jupyter Notebook:
+Lista de projetos em Jupyter Notebook
+* **Projeto Número 01: O Projeto de Insights -** https://bit.ly/2O9DZ1m
 
 ---
 
